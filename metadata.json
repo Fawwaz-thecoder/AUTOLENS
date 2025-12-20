@@ -1,0 +1,7 @@
+{
+  "name": "AutoLens: AI Car Explorer",
+  "description": "A comprehensive car information hub using Gemini AI to provide detailed specs, history, and generated visuals for any automobile.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
